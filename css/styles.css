@@ -44,6 +44,11 @@ p {
 }
 
 /*CLASSES*/
+
+.middle-container {
+  margin: 100px 0;
+}
+
 .middle-container-text {
   color: #40514E;
   font-weight: bold;
@@ -58,6 +63,7 @@ p {
   line-height: 2;
   text-align: left;
   font-weight: bold;
+
 }
 
 .skills-pc-img {
@@ -77,7 +83,6 @@ p {
 
 .skills-chillies-title {
   color: #11999E;
-  margin-top: 100px;
 }
 
 .getintouch-subtitle {
