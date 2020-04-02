@@ -33,7 +33,7 @@ a:hover {
 }
 
 hr {
-  border: dotted #EAF6F6 6px;
+  border: dotted #D2DDDD 6px;
   border-bottom: none;
   width: 4%;
   margin: 100px auto;
@@ -155,7 +155,6 @@ p {
   display: inline-block;
   cursor: pointer;
   text-align: center;
-  margin-bottom: 80px;
 }
 
 .contact-button:hover {
@@ -174,7 +173,7 @@ p {
 
 .bottom-container {
   background-color: #66BFBF;
-  padding: 50px 0 50px 0;
+  padding: 50px 0 20px 0;
 }
 
 .footer-link {
